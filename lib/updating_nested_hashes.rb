@@ -54,7 +54,6 @@ def add_characters
         {:name => "Prince Escalus",
         :occupation => "Apothecary"
       }
-        
       }
    }
 
